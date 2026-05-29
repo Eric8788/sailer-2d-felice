@@ -46,6 +46,10 @@ npm run preview
 
 ## Felice 周末开发流程
 
+先看这份小白指南：
+
+- [Codex 小白使用指南](./docs/CODEX_FOR_BEGINNERS.md)：下载、打开、发 prompt、测试、提交、上传
+
 第一次下载：
 
 ```bash
@@ -102,6 +106,7 @@ BASE_PATH=/projects/sailer-2d/ npm run build
 
 ## Felice AI Project
 
+- [Codex 小白使用指南](./docs/CODEX_FOR_BEGINNERS.md)：Felice 用 Codex 修改项目的完整步骤和可复制 prompt
 - [第一次一对一课文档](./docs/felice-lesson-01-realism-loop.md)：60 分钟共同查看稿，完成专业试玩到 AI 修改的第一次闭环
 - [真实感评审工作流](./docs/felice-realism-review-workflow.md)：定义 Felice 作为 sailing realism reviewer 的协作方式
 - [试玩反馈表](./docs/felice-playtest-feedback-form.md)：固定测试场景、反馈记录、交给 Codex 的任务卡

@@ -30,6 +30,12 @@ git pull
 
 如果 Trae 提示有冲突，先不要乱点，截图发给 Eric。
 
+如果你要用 Codex 修改代码，先看：
+
+```text
+docs/CODEX_FOR_BEGINNERS.md
+```
+
 ## 3. 推荐任务
 
 周末优先做小而清楚的真实感改进，不要重写整个项目。
@@ -112,4 +118,3 @@ git push
 
 下一轮还应该改：
 ```
-
